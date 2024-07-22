@@ -19,3 +19,8 @@ A comprehensive web-based food ordering system designed for South Eastern Univer
 ### 4. Access the Website
 - Open a browser (e.g., Microsoft Edge).
 - Enter `localhost/foodorder` in the address bar to access the website.
+
+### 5. Access the Admin Page
+- To access the admin page, enter 'localhost/foodorder/admin' in the address bar.
+- Username: admin
+- Password: admin
